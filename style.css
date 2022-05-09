@@ -1,0 +1,26 @@
+/* Pardon my Awful styling xD */
+#container {
+  margin: 0;
+  width: 200px;
+  height: 300px;
+  background-color: red;
+  position: relative;
+  left: -100px;
+}
+
+ul {
+  background-color: antiquewhite;
+  list-style-position: inside;
+  display: none;
+}
+
+span:hover {
+  color: blue;
+  cursor: pointer;
+}
+
+span {
+  text-decoration: underline;
+  margin-left: 30%;
+  margin-top: 5px;
+}
